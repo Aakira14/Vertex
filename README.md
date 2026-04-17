@@ -49,16 +49,16 @@ A minimal and modern **Flutter-based Timer App** designed to help you focus, tra
 ---
 
 ## 🚀 Run Locally
-git clone https://github.com/your-username/vortex-timer.git
+git clone https://github.com/Aakira14/vortex-timer.git
 cd vortex-timer
 flutter pub get
 flutter run
 
-##📱 Requirements
+## 📱 Requirements
 Flutter SDK
 Emulator or physical device
 
-Check setup:
+## Check setup:
 
 flutter doctor
 
